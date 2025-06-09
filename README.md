@@ -1,4 +1,3 @@
 # COGS-Anomaly-Detection-using-Machine-Learning-and-Gen-AI-
 
-![Problem](https://raw.githubusercontent.com/WilfredoLandaverde/COGS-Anomaly-Detection-using-Machine-Learning-and-Gen-AI-/074fdb5891caede2dc852c50ec16d501ebd86a2f/images/Problem_Statement.png)
-
+![Problem](https://raw.githubusercontent.com/WilfredoLandaverde/COGS-Anomaly-Detection-using-Machine-Learning-and-Gen-AI-/blob/75b9e424fc655e7ab0c6dfcce6da0e87e1cdfc90/images/Problem_Statement.png)
