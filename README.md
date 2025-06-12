@@ -26,7 +26,7 @@ After developing the model using Isolation Forest 'Algorithm to detect the anoma
 This is an example:
 
 ![Image1](https://github.com/WilfredoLandaverde/COGS-Anomaly-Detection-using-Machine-Learning-and-Gen-AI-/blob/1218e33c87fdd291f8e0845590731bd9836a9d8e/images/Image1.png)
-![Image2](https://github.com/WilfredoLandaverde/COGS-Anomaly-Detection-using-Machine-Learning-and-Gen-AI-/blob/21b2c192f05a88c44a4507731fbc8281f15fc54d/images/Image%202.png)
+![Image2](https://github.com/WilfredoLandaverde/COGS-Anomaly-Detection-using-Machine-Learning-and-Gen-AI-/blob/19a534f05e3d64bdb28cd94fef8cc7e5848a9564/images/Image%202.png)
 
 
 
